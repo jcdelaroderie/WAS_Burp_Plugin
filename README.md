@@ -1,5 +1,5 @@
 # WAS_Burp_Plugin
-Modifed Qualys WAS Plugin for Burp supporting UK1 Platform
+Modifed Qualys WAS Plugin for Burp to support UK1 Platform
 
 1. Download was.jar
 2. In Burp, go to the extensions tab.
